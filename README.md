@@ -27,14 +27,17 @@ A lightweight, always-on-top CPU monitoring widget built with **PyQt5**, designe
    ```bash
    git clone https://github.com/SudoRV/CPU_Monitor.git
    cd CPU_Monitor
+   ```
 
-## 2. Install dependencies
+### 2. Install dependencies
    ```bash
    pip install -r requirements.txt
+   ```
 
-## 3. Ensure OpenHardwareMonitor is installed and placed in:
+### 3. Ensure OpenHardwareMonitor is installed and placed in:
    ```bash
    C:\OpenHardwareMonitor\OpenHardwareMonitor.exe
+   ```
 
 ## ▶️ Usage
     ```bash

@@ -23,7 +23,7 @@ A lightweight, always-on-top CPU monitoring widget built with **PyQt5**, designe
 
 ## 🛠 Installation
 
-## 1. Clone the repository:
+### 1. Clone the repository:
    ```bash
    git clone https://github.com/SudoRV/CPU_Monitor.git
    cd CPU_Monitor
